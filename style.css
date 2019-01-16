@@ -8,17 +8,17 @@
     color: white;
 }
 
-.main-h1{
+.main-h1 {
     text-align: center;
     padding-top: 50px;
 }
 
-.main-h2{
+.main-h2 {
     text-align: center;
 }
 
 .main-img {
-    height: 400px;
+    height: calc(100vh - 250px);
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -26,5 +26,4 @@
 
 .main-small {
     text-align: center;
-    padding-top: 10%;
 }
