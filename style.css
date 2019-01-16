@@ -34,3 +34,7 @@
         height: unset;
     }
 }
+
+.large {
+    font-size: 40pt;
+}
